@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohamed Irfan M</h1>
 <h3 align="center">An Emerging Backend Developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-irfan3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-irfan3" /> </p>
+
 
 - 🌱 I’m currently learning **Backend Development with Spotknack**
 
