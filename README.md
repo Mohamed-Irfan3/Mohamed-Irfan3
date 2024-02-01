@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hey 👋, I'm Mohamed Irfan M</h1>
+<h3 align="center">An Emerging Backend Developer!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-irfan3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-irfan3" /> </p>
+#  About Me:
 👯 I’m looking for new challenges and problem solving <br>🌱 I’m currently learning Backend Development with Spotknack<br>💬 Ask me about Tech<br>⚡ Fun fact Positive approach in everything 
 
 
