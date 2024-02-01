@@ -3,13 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **Backend Development with Spotknack**
+ 🌱 I’m currently learning **Backend Development with Spotknack**
 
-- 💬 Ask me about **Python,C and Java**
+ 💬 Ask me about **Python,C and Java**
 
-- 📫 How to reach me **mohamedirfan27521@gmail.com**
+ 📫 How to reach me **mohamedirfan27521@gmail.com**
 
-- ⚡ Fun fact **Positive approach on everything**
+ ⚡ Fun fact **Positive approach on everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
