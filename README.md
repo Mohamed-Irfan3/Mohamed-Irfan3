@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-irfan3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-irfan3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-irfan3" alt="mohamed-irfan3" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development with Spotknack**
 
 - 💬 Ask me about **Python,C and Java**
