@@ -3,7 +3,7 @@
 
  ##  💫 About Me:
 - 🌱 Currently learning **Backend Development with Spotknack**
-- 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>
+- 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering and Technology<br>
 - 💬 Ask me about: **Python,C and Java**
 
 - 📫 How to reach me: **mohamedirfan27521@gmail.com**
