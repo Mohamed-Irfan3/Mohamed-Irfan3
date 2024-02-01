@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mohamed Irfan M</h1>
 <h3 align="center">An Emerging Backend Developer!</h3>
- #💫 About Me:<br>
+<h1 About Me:<br></h1>
  
 - 🌱 Currently learning **Backend Development with Spotknack**
 
