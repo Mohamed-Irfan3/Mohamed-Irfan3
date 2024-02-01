@@ -26,5 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-irfan3&show_icons=true&locale=en" alt="mohamed-irfan3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-irfan3&theme=dark" alt="mohamed-irfan3" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mohamed-Irfan3&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
