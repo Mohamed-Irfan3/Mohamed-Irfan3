@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohamed Irfan M</h1>
-<h2 align="center">An Emerging Backend Developer!</h2>
+<h2 align="center">An Emerging Web Developer!</h2>
 
  ##  💫 About Me:
-- 🌱 Currently learning **Backend Development with Spotknack**
 - 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering and Technology<br>
 - 💬 Ask me about: **Python,C and Java**
 
