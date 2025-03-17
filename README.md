@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Mohamed Irfan M</h1>
-<h2 align="center">An Emerging Web Developer!</h2>
 
  ##  💫 About Me:
 - 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering and Technology<br>
